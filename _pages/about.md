@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: YufeiJin.jpg
+  image: YufeiJin1001.jpg
   image_circular: false # crops the image to make it circular
 
 
