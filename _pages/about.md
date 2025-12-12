@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: assets/img/yufei.jpg
+  image: yufei.jpg
   image_circular: false # crops the image to make it circular
 
 
